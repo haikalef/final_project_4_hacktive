@@ -11,7 +11,7 @@ st.title('Predict Cluster of Credit Card Customer')
 
 
 st.markdown(
-    "<p style='text-align: center;'>Made by <b><a href='https://www.linkedin.com/in/rosita-nurul-janatin-561145214/'>'Rosita Nurul Janatin</a></b> , <b><a href='https://www.linkedin.com/in/haikalefendi/'>'Haikal Efendi</a></b> & <b><a href='https://www.linkedin.com/in/ni-made-kirei-kharisma-handayani-90528b21a/'>Ni Made Kirei Kharisma Handayani</a></b></p>",
+    "<p style='text-align: center;'>Made by <b><a href='https://www.linkedin.com/in/rosita-nurul-janatin-561145214/'>'Rosita Nurul Janatin</a></b> , <b><a href='https://www.linkedin.com/in/haikalef/'>'Haikal Efendi</a></b> & <b><a href='https://www.linkedin.com/in/ni-made-kirei-kharisma-handayani-90528b21a/'>Ni Made Kirei Kharisma Handayani</a></b></p>",
     unsafe_allow_html=True
 )
 
